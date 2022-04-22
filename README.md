@@ -4,9 +4,9 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on stock prices and covid-19 data in Singapore.
 
 ## Contributors
-- Jaren Ng Shing Yu - Data Analysis, Data Visualisation, Model Evaluation
-- Joel Tham Yew Hng - LSTM, Dataset Research
-- Lee Zheng Xuan - Data Extraction, LSTM, Linear Regression
+- Jaren Ng Shing Yu - Data Analysis, Data Visualisation, Linear Regression
+- Joel Tham Yew Hng - LSTM, Dataset Research, Model Evaluation
+- Lee Zheng Xuan - Data Extraction, LSTM, Linear Regression, Data Cleaning
 
 
 ## Problem Statement
