@@ -1,11 +1,16 @@
 # covid19_stockprices
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on stock prices from YFinance API.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on stock prices and covid-19 data in Singapore.
 
 ## Contributors
+- Jaren Ng Shing Yu - Data Analysis, Data Visualisation, Model Evaluation
+- Joel Tham Yew Hng - LSTM, Dataset Research
+- Lee Zheng Xuan - Data Extraction, LSTM, Linear Regression
+
 
 ## Problem Statement
+We aim to find out the correlation between various stock prices and the Covid-19 situation in Singapore, allowing us to predict future stock prices of selected industries. We hope to use machine learning models and selecting the most suitable model to predict future industries’ stock prices more accurately using Covid-19 as a variable.
 
 ## Models Used
 1. Linear Regression
