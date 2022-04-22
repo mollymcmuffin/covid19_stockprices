@@ -6,7 +6,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contributors
 - Jaren Ng Shing Yu - Data Analysis, Data Visualisation, Linear Regression
 - Joel Tham Yew Hng - LSTM, Dataset Research, Model Evaluation
-- Lee Zheng Xuan - Data Extraction, LSTM, Linear Regression, Data Cleaning
+- Lee Zheng Xuan - Data Extraction, LSTM, Linear Regression, Data Cleaning, Data Visualisation, Model Evaluation
 
 
 ## Problem Statement
